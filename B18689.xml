@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the officers of the customs relating to the seizure of a parcel of Fullers earth belonging to Mr. Edmond Warner merchant, shipped to be exported for Holland, under the demonination of potters clay.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18689</idno><idno type="EEBO-CITATION">99832153</idno>
+  <idno type="VID">198907</idno>
+  <idno type="EEBO-PROQUEST">2240942004</idno>
+  
+            <idno type="STC">Wing C1119</idno>
+            <idno type="PROQUEST">99832153</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832153e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:102)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the officers of the customs relating to the seizure of a parcel of Fullers earth belonging to Mr. Edmond Warner merchant, shipped to be exported for Holland, under the demonination of potters clay.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy cropped at foot and faded with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Warner, Edmund --  Early works to 1800.</term>
+               <term type="topical_term">Fuller's earth --  England --  Early works to 1800.</term>
+               <term type="topical_term">Restraint of trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:198907:1"/>
+            <head>THE CASE OF THE Officers of the Customs Relating to the Seizure of a Parcel of <hi>FUL<g ref="char:EOLhyphen"/>LERS EARTH</hi> belonging to Mr. <hi>Ed<g ref="char:EOLhyphen"/>mond Warner</hi> Merchant, shipp'd to be Ex<g ref="char:EOLhyphen"/>ported for <hi>Holland,</hi> under the Denomina<g ref="char:EOLhyphen"/>tion of <hi>Potters Clay.</hi>
+            </head>
+            <p>BY an Act made in the Twelfth Year of King <hi>CHARLES</hi> the Second, Intituled, An Act for Prohibiting the Exportation of Wooll, Woollfels, Fullers Earth, <hi>Or any Kind of Scouring Earth,</hi> It is Enacted, That no Person whatsoever, shall Export or put on Board any Ship or Vessel with intent to be Exported, any Fullers Farth, or <hi>Fulling Clay whatsoever,</hi> upon Forfeiture of the said Clay and Three Shillings <hi>per</hi> Pound Weight, <hi>&amp;c.</hi>
+            </p>
+            <p>By another Act made in the Fourteenth Year of the said King, it <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken notice of, That notwithstanding the Laws then made, yet (amongst other thing) great quantity of Fullers Earth and Fullers Clay, <hi>&amp;c.</hi> was secretly Exported, to the great Decay of the Woollen Ma<g ref="char:EOLhyphen"/>nufacture, the Ruin of many Families, and the Destruction of Navigation; which was like daily to increase, if some farther Remedy was not provided, and further Penalties imposed upon the Offenders.</p>
+            <p>It is therein Enacted, That whereas great quantities of Fullers Earth and Fulling Clay are daily Exported, under the Colour of Tobacco-Pipe Clay, that no Tobacco-Pipe Clay shall for the future be Exported, under the Penalties of the forfeiture of the said Clay and Three Shillings <hi>per</hi> Pound Weight, <hi>&amp;c.</hi>
+            </p>
+            <p>And it is also therein further provided, That if any Customer, Controller, Waiter, Search<g ref="char:EOLhyphen"/>er, or Surveyor, or other Officer, knowing thereof, and being wittingly or willingly aiding, assisting, or <hi>Consenting</hi> thereto, shall be adjudged and taken to be a Felon, and every Offender suffer and forfeit as in Case of Felony.</p>
+            <p>The Officers above-mentioned are Searchers, without whose knowledge no Goods can pass or be shipp'd to be Exported, nor discharged but by Cocquets signed under their hands, nor the Ships cleared from the Custom-house, but by Dispatches from them.</p>
+            <p>These Officers knew the Earth of Mr. <hi>Warner</hi> (who had shipp'd the said Earth before any notice given to them) to be Fullers Earth; having themselves experimented the same in Ful<g ref="char:EOLhyphen"/>ling of Cloth; which they found (by the Judgement of several Clothiers and Fullers) to per<g ref="char:EOLhyphen"/>form all the Offices of other Fullers Earth.</p>
+            <p>If they had not stopped the Earth, they had been <hi>Consenting</hi> to the Exportation, in as much as the said Earth could not be Exported, but by Cocquet or Warrant signed by them: And as they are named by their Office in the before-mentioned Act, they must have been found guilty of Felony, and if prosecuted, suffer as Felons.</p>
+            <p>The said Officers moved the Barons of the Exchequer, That they would please to direct an Experiment in such place and by such persons as the Court should think fit, to prevent all fa<g ref="char:EOLhyphen"/>lacious Experiments, and that the truth at the Trial might appear; but this was opposed by Mr. <hi>Warner.</hi>
+            </p>
+            <p>They also offered Mr. <hi>Warner</hi> before the Commissioners of the Customs, That if he would not Export any more of the said Earth, not to insist on the Penalties; and the said Officers further declared in Court, by the Attorney General, before and at the Trial, That if a Ver<g ref="char:EOLhyphen"/>dict went for the King, they declined all the Forfeitures, that it might appear they sought not the Ruin of Mr. <hi>Warner,</hi> but tried only the right of the Earth, which was not above Twelve pounds value, to prevent the Exportation thereof as a National Good.</p>
+            <p>Yet upon the Motion of Mr. <hi>Warner</hi> in the Court of Exchequer, they were compelled to try the forfeiture of the said Earth (altho of so inconsiderable a Value) at Bar; whereby they were forced to expend several hundred pounds.</p>
+            <p>It's apparent, That if a Verdict had been given for the King upon the late Trial, the Officers could not have received the least advantage by it, altho it is as evident, That by the Exporta<g ref="char:EOLhyphen"/>tion they are gainers by their Fees; and are by so much losers, if the shipping off be prevented, having acted only in this Matter under the necessity or their Duty, the Trust that the Law <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>itted to them<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the Publick Good of the Nation in general.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
